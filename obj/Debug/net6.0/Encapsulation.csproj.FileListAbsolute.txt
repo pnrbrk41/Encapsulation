@@ -1,0 +1,15 @@
+C:\Users\Burak\Documents\GitHub\Encapsulation\bin\Debug\net6.0\Encapsulation.exe
+C:\Users\Burak\Documents\GitHub\Encapsulation\bin\Debug\net6.0\Encapsulation.deps.json
+C:\Users\Burak\Documents\GitHub\Encapsulation\bin\Debug\net6.0\Encapsulation.runtimeconfig.json
+C:\Users\Burak\Documents\GitHub\Encapsulation\bin\Debug\net6.0\Encapsulation.dll
+C:\Users\Burak\Documents\GitHub\Encapsulation\bin\Debug\net6.0\Encapsulation.pdb
+C:\Users\Burak\Documents\GitHub\Encapsulation\obj\Debug\net6.0\Encapsulation.csproj.AssemblyReference.cache
+C:\Users\Burak\Documents\GitHub\Encapsulation\obj\Debug\net6.0\Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burak\Documents\GitHub\Encapsulation\obj\Debug\net6.0\Encapsulation.AssemblyInfoInputs.cache
+C:\Users\Burak\Documents\GitHub\Encapsulation\obj\Debug\net6.0\Encapsulation.AssemblyInfo.cs
+C:\Users\Burak\Documents\GitHub\Encapsulation\obj\Debug\net6.0\Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\Burak\Documents\GitHub\Encapsulation\obj\Debug\net6.0\Encapsulation.dll
+C:\Users\Burak\Documents\GitHub\Encapsulation\obj\Debug\net6.0\refint\Encapsulation.dll
+C:\Users\Burak\Documents\GitHub\Encapsulation\obj\Debug\net6.0\Encapsulation.pdb
+C:\Users\Burak\Documents\GitHub\Encapsulation\obj\Debug\net6.0\Encapsulation.genruntimeconfig.cache
+C:\Users\Burak\Documents\GitHub\Encapsulation\obj\Debug\net6.0\ref\Encapsulation.dll
